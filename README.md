@@ -26,3 +26,4 @@ Qwen - для создания системного промпта и базы �
 Савви https://suvvy.ai/ - для создания ИИ-ассистента.
 
 ![Иллюстрация к проекту](https://github.com/PAPA82/AI-Assistant/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA3.PNG?raw=true)
+![Иллюстрация к проекту](https://github.com/PAPA82/AI-Assistant/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA2.PNG?raw=true)
